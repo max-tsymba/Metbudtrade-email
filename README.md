@@ -1,0 +1,2 @@
+# Metbudtrade-email
+Promotional Email
