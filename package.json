@@ -1,0 +1,19 @@
+{
+  "name": "metbudtrade",
+  "version": "1.0.0",
+  "description": "Promotional Email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-tsymba/Metbudtrade-email.git"
+  },
+  "author": "Max Tsymbaliuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-tsymba/Metbudtrade-email/issues"
+  },
+  "homepage": "https://github.com/max-tsymba/Metbudtrade-email#readme"
+}
