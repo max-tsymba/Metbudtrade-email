@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/max-tsymba/Metbudtrade-email/issues"
   },
-  "homepage": "https://github.com/max-tsymba/Metbudtrade-email#readme"
+  "homepage": "https://github.com/max-tsymba/Metbudtrade-email#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
